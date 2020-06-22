@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Resep Kopi Dalgona</string>
+
+
+    <string-array name="data_judul">
+        <item>Dalgona Coffee</item>
+        <item>Dalgona Matcha</item>
+        <item>Dalgona Milo</item>
+        <item>Dalgona Avocado Coffee</item>
+        <item>Dalgona Coffee Oreo</item>
+        <item>Dalgona Chocolatos</item>
+        <item>Dalgona Coffee Panas</item>
+        <item>Dalgona Brown Sugar</item>
+    </string-array>
+
+    <array name="data_photo_dalgona_deskripsi">
+        <item>@drawable/foto_dalgona_coffee</item>
+        <item>@drawable/foto_dalgona_matcha</item>
+        <item>@drawable/foto_dalgona_milo</item>
+        <item>@drawable/foto_dalgona_avocado_coffee</item>
+        <item>@drawable/foto_dalgona_coffee_oreo</item>
+        <item>@drawable/foto_dalgona_chocolatos</item>
+        <item>@drawable/foto_dalgona_coffee_panas</item>
+        <item>@drawable/foto_dalgona_brown_sugar</item>
+    </array>
+
+    <array name="data_photo_dalgona">
+        <item>@drawable/foto_1</item>
+        <item>@drawable/foto_2</item>
+        <item>@drawable/foto_3</item>
+        <item>@drawable/foto_4</item>
+        <item>@drawable/foto_5</item>
+        <item>@drawable/foto_6</item>
+        <item>@drawable/foto_7</item>
+        <item>@drawable/foto_8</item>
+    </array>
+
+    <string-array name="data_deskripsi">
+        <item>
+            Bahan: \n
+            - 2 sendok makan kopi instan tanpa ampas\n
+            - 2 sendok makan air panas\n
+            - satu cangkir susu\n
+            - 2 sendok makan gula pasir\n
+            \n
+            Cara membuat:\n
+            1. Campur kopi instan, gula pasir dan air panas. Aduk terus hingga mengembang jadi krim lembut.\n
+            2. Aduk selama dua menit lagi dengan cepat.\n
+            3. Tuang kopi di atas susu.\n
+        </item>
+        <item>
+            Bahan:\n
+            - susu UHT\n
+            - es batu\n
+            \n
+            Bahan dalgona:\n
+            - 1 sdm bubuk greentea (matcha)\n
+            - 2 sdm air hangat\n
+            - 2 sdm gula pasir\n
+            - 2 sdm whipped cream\n
+            \n
+            Cara membuat:\n
+            1. Campur dan kocok matcha gula dan air.\n
+            2. Masukkan cream, aduk memutar sampai mengental, sisihkan.\n
+            3. Siapkan susu dan es di gelas, tuangkan dalgona di atas susu.\n
+        </item>
+        <item>
+            Bahan:\n
+            - 2 sdm gula pasir\n
+            - 1 sdm susu bubuk cokelat\n
+            - 1 bungkus milo\n
+            - 2 sdm air panas\n
+            - 250 ml susu full cream\n
+            - 1/2 sdm ovalet\n
+            - es batu secukupnya\n
+            \n
+            Cara membuat:\n
+            1. Campurkan seluruh bahan kecuali susu full cream, aduk rata dengan cepat sampai mengental.\n
+            2. Siapkan es batu dan susu uht cair di dalam gelas. Tuang adonan tadi. Beri toping susu bubuk cokelat milo di atasnya.\n
+        </item>
+        <item>
+            Bahan:\n
+            - 1/2 kilo alpukat\n
+            - 1 sdm gula pasir (sesuai selera)\n
+            - 50 ml air matang\n
+            - 1 saset skm warna putih\n
+            \n
+            Bahan coffee:\n
+            - 4 sdm gula halus\n
+            - 2 bungkus (4 gram) coffee Nescafe classic\n
+            - 2 sdm air panas\n
+            \n
+            Cara membuat:\n
+            1. Campur semua bahan alpukat, lalu jus hingga halus. Sisihkan.\n
+            2. Campur semua bahan coffee, aduk dengan cepat hingga mengental.\n
+            3. Tuang jus alpukat ke gelas, tambahkan coffee di atasnya.\n
+        </item>
+        <item>
+            Bahan:\n
+            - 2 sdm kopi hitam Nescafe Classic\n
+            - 2 sdm gula pasir\n
+            - 300 ml susu full cream Greenfields\n
+            - 6 keping Oreo\n
+            - 3 sdm air putih\n
+            - baloon whisk (untuk mengaduk kopi)\n
+            - es batu\n
+            \n
+            Cara membuat:\n
+            1. Untuk bahan dalgona cream: campur kopi hitam, susu full cream, gula pasir, dan air putih. Kocok secara cepat menggunakan baloon whisk selama kurang lebih 5-7 menit. Tunggu hingga berubah tekstur jadi seperti cream atau foam. Sisihkan.\n
+            2. Masukkan Oreo ke gelas, hancurkan. Masukkan es batu sesuai selera. Tuang masukkan susu full cream. Kemudian masukkan dalgona cream di atasnya.\n
+        </item>
+        <item>
+            Bahan:\n
+            - 2 bungkus Chocolatos cokelat\n
+            - 2 sachet susu kental manis putih\n
+            - 3 sdm gula pasir\n
+            - 3 sdm air panas\n
+            - air secukupnya\n
+            - 1/4 sdm sp (pengembang roti)\n
+            \n
+            Cara membuat:\n
+            1. Campurkan Chocolatos cokelat, air panas, dan gula pasir. Aduk sampai tercampur rata.\n
+            2. Tambahkan kocokan adonan sampai kaku.\n
+            3. Larutkan susu kental manis seperti biasa. Tambah es batu.\n
+            4. Beri adonan cokelat yang sudah dikocok.\n
+        </item>
+        <item>
+            Bahan:\n
+            - 2 sdm gula pasir\n
+            - 2 sachet nescafe tanpa ampas\n
+            - susu segar\n
+            - 2 sdm air dingin/air es\n
+            \n
+            Cara membuat:\n
+            1. Campur, lalu aduk 2 sachet Nescafe dan gula pasir bersama air dingin.\n
+            2. Aduk hingga dalgona mengental, kurag lebih sekitar 7-10 menit.\n
+            3. Hangatkan susu di wajan.\n
+            4. Tuang susu hangat ke gelas, lalu masukkan dalgona di atasnya.\n
+            5. Taburi gula palm supaya lebih lezat.\n
+        </item>
+        <item>
+            Bahan:\n
+            - 2 sdm gula aren\n
+            - es secukupnya\n
+            - 2 sdm kopi hitam tanpa ampas\n
+            - susu cair secukupnya\n
+            - 2 sdm air hangat\n
+            \n
+            Cara membuat:\n
+            1. Masukkan kopi ke piring. Masukkan gula aren dan air.\n
+            2. Aduk kopi menggunakan saringan selama kurang lebih 3 menit dengan cepat.\n
+            3. Masukan es dan susu ke gelas sesuai selera.\n
+            4. Tuang kopi di atasnya.\n
+        </item>
+    </string-array>
+
+
+</resources>
