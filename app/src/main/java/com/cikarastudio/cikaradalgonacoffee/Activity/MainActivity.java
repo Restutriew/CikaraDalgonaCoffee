@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity{
             public void onClick(View view) {
                 Intent listresep = new Intent(MainActivity.this,KumpulanResepActivity.class);
                 startActivity(listresep);
-                finish();
             }
         });
 

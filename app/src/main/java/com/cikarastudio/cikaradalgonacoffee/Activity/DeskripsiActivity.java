@@ -3,6 +3,7 @@ package com.cikarastudio.cikaradalgonacoffee.Activity;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
@@ -13,6 +14,7 @@ import com.cikarastudio.cikaradalgonacoffee.R;
 
 public class DeskripsiActivity extends AppCompatActivity {
     public static final String EXTRA_MASSAGE = "extra_dalgona";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,11 +37,10 @@ public class DeskripsiActivity extends AppCompatActivity {
         img_kembali.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent kembali = new Intent(DeskripsiActivity.this, KumpulanResepActivity.class);
-                startActivity(kembali);
                 finish();
             }
         });
+
 
 
     }

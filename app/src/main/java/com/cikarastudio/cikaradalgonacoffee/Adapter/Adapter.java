@@ -32,6 +32,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ListViewHolder> {
     public Adapter(ArrayList<Dalgona> listDalgona) {
         this.listDalgona = listDalgona;
     }
+
     @NonNull
     @Override
     public Adapter.ListViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int viewType) {

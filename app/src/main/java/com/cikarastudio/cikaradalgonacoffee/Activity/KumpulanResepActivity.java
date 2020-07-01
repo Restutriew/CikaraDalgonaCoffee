@@ -38,8 +38,6 @@ public class KumpulanResepActivity extends AppCompatActivity {
         img_kembali.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent kembali = new Intent(KumpulanResepActivity.this, MainActivity.class);
-                startActivity(kembali);
                 finish();
             }
         });
@@ -57,7 +55,6 @@ public class KumpulanResepActivity extends AppCompatActivity {
                 Intent detaildalgona = new Intent(KumpulanResepActivity.this, DeskripsiActivity.class);
                 detaildalgona.putExtra(DeskripsiActivity.EXTRA_MASSAGE, data);
                 startActivity(detaildalgona);
-                finish();
             }
         });
     }
